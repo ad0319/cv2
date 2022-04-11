@@ -1,0 +1,162 @@
+nav ul {
+list-style-type: none;
+padding: 0;
+margin: 0;
+font-size: 1.5rem;
+text-align: center;
+}
+nav li {
+display: inline-block;
+}
+
+nav {
+border: 1px solid #333;
+margin: 5rem auto;
+background-color: #eee;
+background-image: url("https://assets.codepen.io/296057/lil-graydots.png");
+border-bottom: 5px solid #00bff3;
+border-top: 5px solid #00bff3;
+}
+
+nav a {
+color: #00bff3;
+text-decoration: none;
+font-size: 1.5rem;
+font-weight: 600;
+display: block;
+padding: 0.5rem 1rem;
+}
+
+nav a:focus {
+background-color: #f0c808;
+color: black;
+}
+nav a:hover {
+background-color: #f0c808;
+color: #ff583d;
+background-image: url("https://assets.codepen.io/296057/lil-yellowdots.png");
+}
+.active {
+color: #ff583d;
+background-color: #c5e5ed;
+background-image: url("https://assets.codepen.io/296057/lil-bluedots.png");
+}
+
+html {
+box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+box-sizing: inherit;
+}
+body {
+/* Old browsers */
+background: #FFFF99;
+/* Chrome 10-25, Safari 5.1-6 */
+background: -webkit-linear-gradient(-45deg, #ffcccc, #00ffff);
+/* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: linear-gradient(-45deg, #35577D, #0040ff);
+margin: 0;
+padding: 0;
+  background-image: url("https://www.nbcc.cn/xygk/xyjj/201207/W020160422579116262862.jpg");
+background-size: cover;
+background-position: centre;
+height: 800px;
+}
+
+h1 {
+color: black;
+font-size: 2em;
+padding-top: 100px;
+width: 100%;
+}
+
+h2 {
+border-bottom: 1px solid rgba(255, 255, 255, 0.5);
+color: black;
+font-weight: 500;
+font-size: 30px;
+line-height: 24px;
+padding-bottom: 30px;
+text-align: center;
+width: 70%;
+}
+h3 {
+color: black;
+font-size: 2em;
+padding-top: 100px;
+width: 100%;
+}
+h4 {
+color: black;
+font-size: 2em;
+padding-top: 100px;
+width: 100%;
+}
+h5 {
+color: black;
+font-size: 2em;
+padding-top: 100px;
+width: 100%;
+}
+h6 {
+color: black;
+font-size: 2em;
+padding-top: 100px;
+width: 100%;
+}
+h7 {
+color: black;
+font-size: 2em;
+padding-top: 100px;
+width: 100%;
+}
+h7 {
+color: black;
+font-size: 2em;
+padding-top: 100px;
+width: 100%;
+}
+h8 {
+color: black;
+font-size: 2em;
+padding-top: 100px;
+width: 100%;
+}
+
+
+
+
+p {
+color: red;
+line-height: 1em;
+text-align: left;
+width: 100%;
+  font-size:2em;
+}
+tr
+{
+color: yellow;
+line-height: 1.5em;
+text-align: left;
+width: 100%;
+  
+}
+
+.byline {
+font-family: Helvetica;
+color: rgba(255, 255, 255, 0.5);
+float: left;
+font-size: 14px;
+padding-left: 10px;
+text-transform: uppercase;
+}
+
+.caption {
+display: block;
+font-family: 'Playfair Display', serif;
+font-size: 34px;
+font-style: italic;
+line-height: 34px;
