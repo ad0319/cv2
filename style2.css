@@ -160,3 +160,24 @@ font-family: 'Playfair Display', serif;
 font-size: 34px;
 font-style: italic;
 line-height: 34px;
+
+table{
+  border-collapse: collapse;
+  border: 10px solid rgb(23, 6, 122)
+}
+th, td {
+	border: 1px solid black;
+	padding: 8px;
+}
+
+thead th {
+  width: 25%;
+}
+
+caption{
+  font-weight: bold;
+font-size: 24px;
+text-align: left;
+color:#333;
+
+}
