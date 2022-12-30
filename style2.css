@@ -163,7 +163,7 @@ line-height: 34px;
 
 table{
   border-collapse: collapse;
-  border: 10px solid rgb(23, 6, 122)
+  border: 10px solid rgb(23, 6, 122);
 }
 th, td {
 	border: 1px solid black;
